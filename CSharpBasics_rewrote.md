@@ -6,7 +6,7 @@ C#
 
 C# ist eine typsichere, objektorientierte Allzweck-Programmiersprache. Historisch wurde in C# fast exklusiv für Windows entwickelt. Durch Xamarin ist es inzwischen aber auch möglich, für macOS, iOS und Android zu entwickeln. Zudem gibt es mit .NET Core auch offizielle Unterstützung für GNU/Linux und macOS [1].
 
-In der normalen Betriebsart werden C#-Quelltexte in eine mist als IL bezeichnete Zwischensprache übersetzt, die (normalerweise durch einen JIT-Compiler) auf allen Plattformen ausgeführt werden kann, auf denen eine geeignete Laufzeitumgebung KAUDERWELSCH zur Verfügung steht. Darüber hinaus gibt es verschiedene Ansätze der AOT-Compilierung um plattformspezifischen Maschinencode vorab zu erzeugen.
+In der normalen Betriebsart werden C#-Quelltexte in eine mist als IL bezeichnete Zwischensprache übersetzt, die (normalerweise durch einen JIT-Compiler) auf allen Plattformen ausgeführt werden kann, auf denen eine geeignete Laufzeitumgebung zur Verfügung steht. Darüber hinaus gibt es verschiedene Ansätze der AOT-Compilierung um plattformspezifischen Maschinencode vorab zu erzeugen.
 
 Bis Version 2 war die Sprache bei ISO[2] als Standard regstriert. In der Folge erschienen regelmäßig umfangreiche Erweiterungen der Sprache durch Microsoft. Durch die Entwicklung des Referenc-Compilers als Open Source (seit 2014) sind auch Community-Beiträge möglich.
 
@@ -27,7 +27,7 @@ Einige der Elemente von C++, die im Allgemeinen als unsicher gelten, wie beispie
 2010 	.NET 4.0 	C# 4.0
 2019 	.NET Core 3 	C#8.0
 
-4. Hello World Beispil
+4. Hello World Beispiel
 ------------------------
 
 using System;
